@@ -1,0 +1,9 @@
+Comandos git: 
+
+git status: verifica quais arquivos foram modificados 
+git add <nome do arquivo ou . para todos>: adicionar as mudanças 
+git commit -m "Mensagem do commit": registrar as mudanças no repositório 
+git push <nome do diretorio> <main/branch>: subir as mudanças para o repositório 
+git pull <nome do diretorio> <main/branch>: baixar as mudanças para o repositório local
+git log: monstra todos os commits
+git remote: mostra seus diretórios remotos
