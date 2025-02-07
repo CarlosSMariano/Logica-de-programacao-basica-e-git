@@ -7,3 +7,4 @@ git push <nome do diretorio> <main/branch>: subir as mudanças para o repositór
 git pull <nome do diretorio> <main/branch>: baixar as mudanças para o repositório local
 git log: monstra todos os commits
 git remote: mostra seus diretórios remotos
+git clone <http/ssh do repositório>
