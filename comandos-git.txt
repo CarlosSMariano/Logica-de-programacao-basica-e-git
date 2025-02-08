@@ -9,3 +9,5 @@ git log: monstra todos os commits
 git remote: mostra seus diretórios remotos
 git clone <http/ssh do repositório> (no terminal do windows cmd): clona o repositório
 git revert <id do commit (pega do git log)>: revert o commit selecionado / ultimo commit
+git commit --amend -m "mensagem alterada" : Altera a descrição do ultimo commit
+git reset --hard <id do commit>
