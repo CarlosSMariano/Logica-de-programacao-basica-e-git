@@ -1,6 +1,6 @@
 # NUMERO-SECRETO
 
-#
+
 <h1>🧠 About </h1>
 <p>
   Aqui, temos a junção de três cursos da alura: <br>
