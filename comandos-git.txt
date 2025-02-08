@@ -8,3 +8,4 @@ git pull <nome do diretorio> <main/branch>: baixar as mudanças para o repositó
 git log: monstra todos os commits
 git remote: mostra seus diretórios remotos
 git clone <http/ssh do repositório> (no terminal do windows cmd): clona o repositório
+git revert <id do commit (pega do git log)>: revert o commit selecionado / ultimo commit
