@@ -7,7 +7,7 @@
   <ul>
     <li>Lógica de Programação 1: loops, condicionais e variáveis</li>
     <li>Lógica de Programação 2: funções e listas</li>
-    <li>Git e GitHub: contruindo repositórios, alterando, excluindo, editando, </li>
+    <li>Git e GitHub: contruindo repositórios, alterando, excluindo, editando e README.md </li>
   </ul>
 
 </p>
