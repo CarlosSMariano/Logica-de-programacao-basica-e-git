@@ -14,6 +14,9 @@
 
 ## 🚀 Technologies
 <div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=yellow">
-  <img src="https://img.shields.io/badge/git-F7DF1E?style=for-the-badge&logo=git&logoColor=red">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VsCode logo" /> Vscode
+ <br>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  /> JavaScript
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo"  /> git
 </div>
