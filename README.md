@@ -1,4 +1,4 @@
-# NUMERO-SECRETO
+# Conceitos básicos de lógica de programção <br> Git e GitHub
 
 
 <h1>🧠 About </h1>
